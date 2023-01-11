@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+smschool.ihsanofficial.com	TRUE	/	FALSE	1999999999	ci_session	7fa815ef5322d26bc20ca0e1665a873d6b8793a6
+
